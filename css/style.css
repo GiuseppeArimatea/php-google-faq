@@ -38,18 +38,18 @@ img {
   padding: 10px;
 }
 
-ul {
+.nav_ul {
   display: flex;
   flex-direction: row;
   list-style: none;
 }
 
-li {
+.nav_li {
   padding-left: 46px;
   color: #5d5050;
 }
 
-li:last-child {
+.nav_li:last-child {
   color: blue;
   border-bottom: 2px solid blue;
   padding: 0;
